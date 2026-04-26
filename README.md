@@ -1,4 +1,4 @@
-# Bo-Shuriken Beat Slicer — JUCE 8 Rewrite
+# Shuriken Beat Slicer — JUCE 8 Rewrite
 
 A modern rewrite of the original [Shuriken Beat Slicer](https://github.com/rock-hopper/shuriken)  
 using **JUCE 8**, **CMake**, **C++17**, and native **Wayland** support.
