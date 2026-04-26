@@ -2,9 +2,13 @@
 FULL DISCLOSURE:  This was made with Claude A.I. 
 I'm not a programmer so this was just for my usage. 
 
+
+
 A modern rewrite of the original [Shuriken Beat Slicer](https://github.com/rock-hopper/shuriken)  
 using **JUCE 8**, **CMake**, **C++17**, and native **Wayland** support.
 
+
+![alt text](https://github.com/MrDorianJames/Bo-Shruriken/blob/78ddd289334511ba125842966dbbc039510afc28/Screenshot.png?raw=true)
 ---
 
 ## What's New vs. the Original
