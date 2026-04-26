@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ab983c3e47cec3c762aa957a1121c92d BoShuriken_artefacts/JuceLibraryCode/JuceHeader.h

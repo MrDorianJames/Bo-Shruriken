@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dorian/Documents/Github/Bo-Shruriken/build/cmake_install.cmake",
+		"/home/dorian/Documents/Github/Bo-Shruriken/build/_deps/juce-build/cmake_install.cmake",
+		"/home/dorian/Documents/Github/Bo-Shruriken/build/_deps/juce-build/modules/cmake_install.cmake",
+		"/home/dorian/Documents/Github/Bo-Shruriken/build/_deps/juce-build/extras/Build/cmake_install.cmake",
+		"/home/dorian/Documents/Github/Bo-Shruriken/build/_deps/juce-build/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
