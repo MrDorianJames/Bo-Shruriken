@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Bo-Shuriken Beat Slicer
+GenericName=Beat Slicer
+Comment=Slice drum loops, assign to MIDI, and time-stretch in real time
+Exec=bo-shuriken %F
+Icon=bo-shuriken
+Terminal=false
+Categories=AudioVideo;Audio;Midi;Music;
+MimeType=audio/x-wav;audio/x-aiff;audio/flac;audio/ogg;audio/mpeg;
+Keywords=beat;slicer;drum;loop;midi;audio;sampler;
+StartupNotify=true
+# Wayland-native: request direct Wayland backend (no XWayland layer)
+# Remove this line if you experience issues on your compositor.
+# The app falls back to X11/XWayland automatically if Wayland is unavailable.
